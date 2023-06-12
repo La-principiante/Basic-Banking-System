@@ -10,11 +10,9 @@ FIRST Download
 
 2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
 
-3"bank"
+3. Create a folder and upload the files.
 
-4. Download the zip file/ download winrar
-
-5. Extract the file and copy "bank" folder
+4. Create a sub-file with 'autoloader.php', 'function.php', 'db.php'.
 
 6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
