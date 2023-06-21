@@ -14,7 +14,7 @@ FIRST Download
 
 4. Create a sub-file with 'autoloader.php', 'function.php', 'db.php'.
 
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
+6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs) 
 
 7. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
